@@ -1,4 +1,9 @@
 # Mini Company
+<div align="center">
+<img src="Build/Windows/Application.ico"/>
+</div>
+
+
 Made by
 | Name                      | Role              |
 |---------------------------|-------------------|
