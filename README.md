@@ -1,10 +1,11 @@
 # Mini Company
 <div align="center">
-<img src="Build/Windows/Application.ico"/>
+  <img src="Screenshots/tutorial.png" width=33% height=33% /> <img src="Screenshots/first_combat.png" width=33% height=33% /> <img src="Screenshots/formation_fighting.png" width=33% height=33% /> <img src="Screenshots/ranged_attack.png" width=33% height=33% /> <img src="Screenshots/thrust_attack.png" width=33% height=33% /> <img src="Screenshots/final_battle.png" width=33% height=33% />  
+  
+ <a href="https://www.youtube.com/watch?v=oyDPEQYcDxI">Low-resolution gameplay footage</a>
 </div>
-
-
-Made by
+ 
+### Credits
 | Name                      | Role              |
 |---------------------------|-------------------|
 | AYRAL Malo                | Game Designer     |
@@ -12,16 +13,18 @@ Made by
 | LECACHEUR Anthony         | Game Designer     |
 | AMARA Sami                | Game Programmer   |
 | PETIT Denis               | Game Programmer   |
+ 
+## Description
+Mini Company is a single player third-person brawler game.  
+Play as a group of 9 brave knights, sent to a stranded island overturned by mean knights.  
+Defeat the enemies by assuming 3 different tactical combat formations, which are up to you to discover! 
 
 
-# Playing
+## Playing
 You can either:
 - [download a build](https://github.com/Bad-Sam/mini_company/releases) (mirror [here](https://jules-jalliffier-merlon.itch.io/mini-company)) and run `MiniCompany.exe` in the archive
 - open the project in Unreal Engine 4 and play directly in the editor
 
-## Description
-Mini Company is a single player third-person brawler game. The player controls a group of knights, which must chase other hostile groups of knights from a stranded island.
-To do so, the player's little army can assume different tactical combat formations, which are up to you to discover!
 
 ## Controls
 Gamepad:
