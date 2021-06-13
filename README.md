@@ -1,6 +1,7 @@
 # Mini Company
 <div align="center">
   <img src="Screenshots/tutorial.png" width=33% height=33% /> <img src="Screenshots/first_combat.png" width=33% height=33% /> <img src="Screenshots/formation_fighting.png" width=33% height=33% /> <img src="Screenshots/ranged_attack.png" width=33% height=33% /> <img src="Screenshots/thrust_attack.png" width=33% height=33% /> <img src="Screenshots/final_battle.png" width=33% height=33% /> 
+ <a href="https://www.youtube.com/watch?v=oyDPEQYcDxI">Low-resolution gameplay footage</a>
 </div>
  
 ### Credits
