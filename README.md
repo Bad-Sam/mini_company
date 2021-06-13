@@ -3,6 +3,8 @@
 <div align="center">
     <p></p>
     <img src="Screenshots/tutorial.png" width=33% height=33% /> <img src="Screenshots/first_combat.png" width=33% height=33% /> <img src="Screenshots/formation_fighting.png" width=33% height=33% /> <img src="Screenshots/ranged_attack.png" width=33% height=33% /> <img src="Screenshots/thrust_attack.png" width=33% height=33% /> <img src="Screenshots/final_battle.png" width=33% height=33% />
+</div>
+<div align="center">
     <a href="https://jules-jalliffier-merlon.itch.io/mini-company">itch.io 1</a> | <a href="https://anthonylecacheur.itch.io/mini-company">itch.io 2</a> | <a href="https://www.youtube.com/watch?v=oyDPEQYcDxI">Low-resolution gameplay footage</a>
 </div>
 
