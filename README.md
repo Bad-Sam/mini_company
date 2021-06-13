@@ -1,6 +1,5 @@
 # Mini Company
-Made by :
-
+Made by
 | Name                      | Role              |
 |---------------------------|-------------------|
 | AYRAL Malo                | Game Designer     |
@@ -11,10 +10,11 @@ Made by :
 
 
 # Playing
-The build is accessible [here](https://jules-jalliffier-merlon.itch.io/mini-company).
+You can either:
+- [download a build](https://github.com/Bad-Sam/mini_company/releases) (mirror [here](https://jules-jalliffier-merlon.itch.io/mini-company)) and run `MiniCompany.exe` in the archive
+- open the project in Unreal Engine 4 and play directly in the editor
 
 ## Description
-
 Mini Company is a single player third-person brawler game. The player controls a group of knights, which must chase other hostile groups of knights from a stranded island.
 To do so, the player's little army can assume different tactical combat formations, which are up to you to discover!
 
