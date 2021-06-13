@@ -23,7 +23,9 @@ To play the game, you can either:
 
 
 ## Controls
-Gamepad:
+Mini Company was thought to be played on a gamepad
+![](Screenshots/controls.png)
+
 | Input                 | Action                |
 |-----------------------|-----------------------|
 | Left face button      | Attack                |
