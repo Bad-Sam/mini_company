@@ -1,5 +1,5 @@
 # Mini Company
-<div align="center"><img src="Screenshots/mini_company.png" /></div>
+<div align="center" ><img src="Screenshots/mini_company.png" width=40% height=40% /></div>
 <div align="center">
     <p></p>
     <img src="Screenshots/tutorial.png" width=33% height=33% /> <img src="Screenshots/first_combat.png" width=33% height=33% /> <img src="Screenshots/formation_fighting.png" width=33% height=33% /> <img src="Screenshots/ranged_attack.png" width=33% height=33% /> <img src="Screenshots/thrust_attack.png" width=33% height=33% /> <img src="Screenshots/final_battle.png" width=33% height=33% />
